@@ -105,7 +105,6 @@ const about = {
                 name: 'Euromed University of Fes',
                 description: <>Studies Computer Science & AI.</>,
             },
-
         ]
     },
     technical: {
